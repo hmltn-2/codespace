@@ -1,2 +1,0 @@
-[  { "key": "a", "command": "workbench.action.toggleActivityBarVisibility" },  { "key": "p", "command": "workbench.action.terminal.focus" },  { "key": "q", "command": "workbench.action.terminal.kill" },  { "key": "e", "command": "workbench.action.terminal.focusNext" }]
-
